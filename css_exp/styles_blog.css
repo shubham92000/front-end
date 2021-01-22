@@ -1,0 +1,53 @@
+body{
+    border:20px solid #bdc3c7;
+    max-width: 700px;
+    width: 80%;
+    margin: 15px auto;
+}
+
+.belowbody{
+    border-left :20px solid white;
+    border-right :20px solid white;
+}
+
+h3{
+    color: blue;
+    border:5px solid white;
+    border-bottom: 0 solid white;
+    letter-spacing: 2px;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+}
+
+h1{
+    border:5px solid white;
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+}
+
+.start{
+    border-left: 4px solid #bdc3c7;
+    padding-left: 4px;
+}
+
+.horizLine{
+    border-bottom: 1px solid #bfc0c2;
+    margin-top: 0px;
+    margin-left: 10px;
+    width:97%
+}
+
+.style-one {
+    border: 0;
+    height: 1px;
+    background: #bfc0c2;
+    margin-left: 10px;
+    width:97%
+    /* background-image: linear-gradient(to right, #ccc, #333, #ccc); */
+}
